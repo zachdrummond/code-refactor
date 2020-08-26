@@ -1,14 +1,16 @@
-/* Applies to All Content*/
+/* Styles All Content*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* Styles everything in the body element */
 body {
   background-color: #d9dcd6;
 }
 
+/* Styles everything in the header class */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -22,10 +24,12 @@ body {
   font-size: 48px;
 }
 
+/* Styles seo in Horiseon*/
 #seo {
   color: #d9dcd6;
 }
 
+/* Styles Header Nav Links */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -43,15 +47,18 @@ body {
   margin-left: 25px;
 }
 
+/* Styles all Links */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Styles all Paragraphs */
 p {
   font-size: 16px;
 }
 
+/* Styles the Large Image in <figure> */
 .hero {
   height: auto;
   width: 100%;
@@ -70,6 +77,7 @@ p {
   margin-left: 25px;
 }
 
+/* Styles everything in the content class */
 .content {
   width: 75%;
   display: inline-block;
@@ -94,6 +102,7 @@ p {
   font-size: 36px;
 }
 
+/* Styles everything in the benefits class */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -121,6 +130,7 @@ p {
   max-width: 150px;
 }
 
+/* Styles everything in the footer class */
 .footer {
   padding: 30px;
   clear: both;
