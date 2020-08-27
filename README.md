@@ -1,22 +1,24 @@
-# hw-01-code-refactor
-ReadMe - Employer looking at your GitHub
-ReadMe - Developer coming after you.
+# Refactor a Website
 
-Description
-Screenshot
-Link to Deployment Application
+## Description
+This is a marketing website for an online marketing company called Horiseon. The website highlights the company's primary methods of operations and the benefits of hiring the team.
 
-What changes did you make?
-What have you been working on?
-Did you add comments?
+## Updates
+The website needed to be updated in order to meet accessibility standards, to be optimized for search engines, to improve functionality, and to be easier for developers to understand. These updates were made to the application:
+* I added a concise, descriptive title.
+* I improved the readability of the code.
+* I structured the HTML elements and CSS selectors to follow a logical structure independent of styling and positioning.
+* I combined several CSS selectors.
+* I changed the non-semantic HTML elements to semantic HTML elements.
+* I organized the HTML heading attributes to follow a sequential order.
+* I moved the hero image from the CSS file to the HTML file in order to give it an accessible alt attribute.
+* I added accessible alt attributes to all of the image elements.
+* I improved the functionality of the navigation bar.
+* I added comments to the HTML and CSS files.
 
-Screenshot - How to add images to a markdown file.
-https://gist.github.com/apackeer/4159268
-Download the screenshot into a file.
-Add a relative path to the image.
-Remove spaces.
+## Preview of the Website
+![Screenshot](assets/images/ScreenShot.png)
 
-Intro
-CSS
-HTML
-GitRepo
+## Link to the Website
+* Website: https://zachdrummond.github.io/hw-01-code-refactor/
+* GitHub Repository: https://github.com/zachdrummond/hw-01-code-refactor
