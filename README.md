@@ -20,5 +20,5 @@ The website needed to be updated in order to meet accessibility standards, to be
 ![Screenshot](assets/images/ScreenShot.png)
 
 ## Link to the Website
-* Website: https://zachdrummond.github.io/hw-01-code-refactor/
-* GitHub Repository: https://github.com/zachdrummond/hw-01-code-refactor
+* Website: https://zachdrummond.github.io/code-refactor/
+* GitHub Repository: https://github.com/zachdrummond/code-refactor
