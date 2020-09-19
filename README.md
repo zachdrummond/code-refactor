@@ -3,6 +3,10 @@
 ## Description
 This is a marketing website for an online marketing company called Horiseon. The website highlights the company's primary methods of operations and the benefits of hiring the team.
 
+## Link to the Website
+* Website: https://zachdrummond.github.io/code-refactor/
+* GitHub Repository: https://github.com/zachdrummond/code-refactor
+
 ## Updates
 The website needed to be updated in order to meet accessibility standards, to be optimized for search engines, to improve functionality, and to be easier for developers to understand. These updates were made to the application:
 * I added a concise, descriptive title.
@@ -18,7 +22,3 @@ The website needed to be updated in order to meet accessibility standards, to be
 
 ## Preview of the Website
 ![Screenshot](assets/images/ScreenShot.png)
-
-## Link to the Website
-* Website: https://zachdrummond.github.io/code-refactor/
-* GitHub Repository: https://github.com/zachdrummond/code-refactor
